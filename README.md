@@ -7,7 +7,7 @@ Fourth-year Data Science student at SFU building ML systems that can work in pro
 ## Tech Stack
 
 **ML/AI**\
-PyTorch, TensorFlow, scikit-learn, Transformers, Hugging Face, prompt engineering  
+PyTorch, scikit-learn, Transformers, Hugging Face, prompt engineering  
 
 **Data**\
 pandas, NumPy, PySpark, SQL, relational databases (PostgreSQL, SQL Server), unstructured data  
