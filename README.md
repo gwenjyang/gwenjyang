@@ -1,6 +1,6 @@
 # Hi, I'm Gwen👋
 
-**Data Science student | AI Engineer for network automation | MLE, ML Systems, Data Engineering, Backend/Infra**
+**Data Science student | AI Engineer for network automation | Data Engineering, Backend/Infra, MLE, ML Systems**
 
 Fourth-year Data Science student at SFU building ML systems that can work in production. Former Statistics Canada intern who reduced workflow processing time by 67% by focusing on what analysts actually needed and building systems they could maintain long-term.
 
